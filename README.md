@@ -14,6 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/94888819/184373102-9cd30bb3-be2d-4cce-ba81-e570705c9997.png" width=60% align="right" alt="img4">
 <img align="left" alt="bank2"  height="180" width=30% src = "https://user-images.githubusercontent.com/94888819/184384288-1195ff20-50c9-4adb-acc1-2183e715af43.gif"> 
+<br><br><br><br><br><br>
 
 <img src="https://user-images.githubusercontent.com/94888819/184373332-8468e08c-3189-471e-a896-e76e33ce3e2b.png" width=60% align="left" alt="img5">
 
