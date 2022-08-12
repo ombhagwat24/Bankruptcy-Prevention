@@ -19,4 +19,4 @@
 <img src="https://user-images.githubusercontent.com/94888819/184373332-8468e08c-3189-471e-a896-e76e33ce3e2b.png" width=60% align="left" alt="img5">
 
 <img src="https://user-images.githubusercontent.com/94888819/184373491-5d8eccfd-c67e-47ef-be6e-5037e6b76ba7.png" width=60% align="right" alt="img6">
-<img align="left" alt="bank3"  height="170" width="200" src = "https://i.pinimg.com/originals/a6/ff/a5/a6ffa54c9b06f7030aecd93f011dcb60.gif">  
+
