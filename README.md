@@ -51,3 +51,20 @@
 
 <img align="left" width=30% src="https://user-images.githubusercontent.com/94888819/184488032-e982c5ed-856d-4284-80ba-0b95cbddecfb.png">
 <img align="right" width=65% alt="SS" src="https://user-images.githubusercontent.com/94888819/184487964-831b5233-4241-4e21-8d25-838c330a4769.png">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+# `Model Deployment` 
+
+<p align="center">
+  <img width=90% src="https://user-images.githubusercontent.com/94888819/184490720-d4d7f909-8778-4901-8e61-93fb991100f7.png">
+</p>
+<p align="center">
+  <img width=90% src="https://user-images.githubusercontent.com/94888819/184491146-6bfc9737-067c-4272-bee7-4757e776cb30.png">
+</p>
+<p align="center">
+  <img width=90% src="https://user-images.githubusercontent.com/94888819/184491601-70265eac-6ca8-4b0e-951b-88825a9cd151.png">
+</p>
+
+
+
