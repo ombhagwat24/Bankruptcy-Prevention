@@ -6,7 +6,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/94888819/184372144-36e1c42a-11a5-4a9d-8c59-4bca56714cba.png" width=60% align="left" alt="img1">
 <img align="right" alt="bank1"  height="160" width=30% src = "https://user-images.githubusercontent.com/94888819/184385810-6e750ced-a29d-43f9-a6c1-5af1052b8b91.gif"> 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <img src="https://user-images.githubusercontent.com/94888819/184372753-a3e2179a-db7b-48fb-b5ac-ee6c3570eec0.png" width=60% align="right" alt="img2">
 
