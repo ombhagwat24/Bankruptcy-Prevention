@@ -42,6 +42,12 @@
 </p>
 <p align="left">
   <img width=50% src="https://user-images.githubusercontent.com/94888819/184483854-46a155a4-0fc0-4eef-acf3-21579b4072f9.png">
-</p><p align="right">
+</p>
+<p align="right">
   <img width=50% src="https://user-images.githubusercontent.com/94888819/184484021-e7d8609c-aa87-41f4-96be-af2e9194d8ce.png">
 </p>
+
+# `Model Building`
+
+<img align="left" width=30% src="https://user-images.githubusercontent.com/94888819/184488032-e982c5ed-856d-4284-80ba-0b95cbddecfb.png">
+<img align="right" width=65% alt="SS" src="https://user-images.githubusercontent.com/94888819/184487964-831b5233-4241-4e21-8d25-838c330a4769.png">
