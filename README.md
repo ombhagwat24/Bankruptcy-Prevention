@@ -66,5 +66,18 @@
   <img width=90% src="https://user-images.githubusercontent.com/94888819/184491601-70265eac-6ca8-4b0e-951b-88825a9cd151.png">
 </p>
 
+# `Group Members`
 
+<img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="350px" align="right" alt="logo" />
+
+This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login).
+Member | Email | LinkedIn |
+| --- | --- | --- |
+| **Our Mentor: Neha RAmchandani** | [💌](NR@gmail.com) | [☺️](https://www.linkedin.com/) |
+| **Omkar Bhagwat** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqpLlKHdJncbTZTdtLhpXqgQSwHCFpfrjfZtHKSSfSsbndnmvKSTbBncQRzXzfTqwgKn) | [🤗](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
+| **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[😄](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
+| **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
+| **Amrut Vishwaroop** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [🥰](https://www.linkedin.com/in/amrut-vishwaroop-0ab946232/) |
+| **Akarsh Bhasi** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😀](https://www.linkedin.com/in/akarshbhasi/) |
+| **Manju Kiran** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😇](https://www.linkedin.com/in/nitin-sharma-5972091b0/) | 
 
