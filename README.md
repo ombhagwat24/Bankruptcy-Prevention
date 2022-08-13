@@ -21,15 +21,12 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 # `Dataset:`
-<p align="center">
-  <img width=80% height=300px src="https://user-images.githubusercontent.com/94888819/184480249-68928f62-5f1c-4064-b0fc-46a642ba5163.png">
-</p>
+
+<img align="left" width=60% height=300px src="https://user-images.githubusercontent.com/94888819/184480249-68928f62-5f1c-4064-b0fc-46a642ba5163.png">
+<img align="right" width=30% src="https://user-images.githubusercontent.com/94888819/184480701-40d9aea5-de5d-407c-a2c8-37a939227da1.png">
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # `Insights`
-
-<p align="right">
-  <img width=30% src="https://user-images.githubusercontent.com/94888819/184480701-40d9aea5-de5d-407c-a2c8-37a939227da1.png">
-</p>
 
 <p align="left">
   <img width=50% src="https://user-images.githubusercontent.com/94888819/184482320-c982e3d6-b2ae-4b54-8ccb-534e242c48b9.png">
