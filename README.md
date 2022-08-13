@@ -68,7 +68,7 @@
 
 # `Group Members`
 
-<img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="350px" align="right" alt="logo" />
+<img src="https://user-images.githubusercontent.com/94888819/184492866-91ba459f-9881-4c3a-92b1-10fd10078948.gif" width="380px" align="right" alt="logo" />
 
 This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login).
 Member | Email | LinkedIn |
