@@ -79,5 +79,5 @@ Member | Email | LinkedIn |
 | **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
 | **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [🥰](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
 | **Amrut Vishwaroo** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😀](https://www.linkedin.com/in/amrut-vishwaroop-0ab946232/) |
-| **Akarsh Bhasi ** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😇](https://www.linkedin.com/in/akarshbhasi/) | 
+| **Akarsh Bhasi** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😇](https://www.linkedin.com/in/akarshbhasi/) | 
 
