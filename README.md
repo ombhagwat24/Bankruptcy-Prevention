@@ -73,11 +73,11 @@
 This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login).
 Member | Email | LinkedIn |
 | --- | --- | --- |
-| **Our Mentor: Neha RAmchandani** | [💌](NR@gmail.com) | [click me](https://www.linkedin.com/) |
-| **Omkar Bhagwat** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqpLlKHdJncbTZTdtLhpXqgQSwHCFpfrjfZtHKSSfSsbndnmvKSTbBncQRzXzfTqwgKn) | [click me](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
-| **Manju Kiran** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[click me](https://in.linkedin.com/) |
-| **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [click me](https://www.linkedin.com/in/chaitravi-angane-556b29241/) |
-| **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [click me](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
-| **Amrut Vishwaroo** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [click me](https://www.linkedin.com/in/amrut-vishwaroop-0ab946232/) |
-| **Akarsh Bhasi** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [click me](https://www.linkedin.com/in/akarshbhasi/) | 
+| **Our Mentor: Neha RAmchandani** | [💌](NR@gmail.com) | [Click Me](https://www.linkedin.com/) |
+| **Omkar Bhagwat** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqpLlKHdJncbTZTdtLhpXqgQSwHCFpfrjfZtHKSSfSsbndnmvKSTbBncQRzXzfTqwgKn) | [Click Me](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
+| **Manju Kiran** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[Click Me](https://in.linkedin.com/) |
+| **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [Click Me](https://www.linkedin.com/in/chaitravi-angane-556b29241/) |
+| **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [Click Me](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
+| **Amrut Vishwaroo** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [Click Me](https://www.linkedin.com/in/amrut-vishwaroop-0ab946232/) |
+| **Akarsh Bhasi** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [Click Me](https://www.linkedin.com/in/akarshbhasi/) | 
 
