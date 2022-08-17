@@ -1,9 +1,7 @@
-<p align="center">
-  <img width=60% height=250px src="https://user-images.githubusercontent.com/94888819/184377349-cb8b12ff-fd01-49a3-adfb-f7149e9023e8.png">
-</p>
 
-**Bankruptcy is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts.**
+### `Bankruptcy is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts.`
 <br><br>
+
 # `Information about columns:`
 <img src="https://user-images.githubusercontent.com/94888819/184372144-36e1c42a-11a5-4a9d-8c59-4bca56714cba.png" width=60% align="left" alt="img1">
 <img align="right" alt="bank1"  height="160" width=30% src = "https://user-images.githubusercontent.com/94888819/184385810-6e750ced-a29d-43f9-a6c1-5af1052b8b91.gif"> 
