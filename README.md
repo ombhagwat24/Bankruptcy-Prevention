@@ -1,6 +1,6 @@
 
 ### `Bankruptcy is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts.`
-<br><br>
+<br>
 
 # `Information about columns:`
 <img src="https://user-images.githubusercontent.com/94888819/184372144-36e1c42a-11a5-4a9d-8c59-4bca56714cba.png" width=60% align="left" alt="img1">
