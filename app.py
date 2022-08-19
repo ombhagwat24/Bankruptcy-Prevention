@@ -49,14 +49,6 @@ with col2:
         feature=pd.DataFrame(data,index = [0])
         return feature
 
-def load_lottieurl(url:str):
-    r=requests.get(url)
-    if r.status_code !=200:
-        return None
-    return r.json()
-lottie_= load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_xeicuecf.json")
-with col2:
-    st_lottie(lottie_,key="emojis",height=100,width=200)
     
 df=user_input_features()
 
